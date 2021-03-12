@@ -1,6 +1,6 @@
 
-[	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ™Üşÿÿÿÿ8™èÏŸ‚/
 V	java:S106”"9Replace this use of System.out or System.err by a logger.(Ş‚ãÅ8™èÏŸ‚/
-]	java:S125E"<This block of commented-out lines of code should be removed.(ğ¤¥ıÿÿÿÿ8ºˆ¥¡‚/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ™Üşÿÿÿÿ8™èÏŸ‚/
 T
 java:S36559"7Call "Optional#isPresent()" before accessing the value.(´ñ¸Ÿ8û—£¡‚/
+]	java:S125E"<This block of commented-out lines of code should be removed.(ğ¤¥ıÿÿÿÿ8ºˆ¥¡‚/
