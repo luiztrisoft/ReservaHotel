@@ -7,3 +7,5 @@ Q
 !src/br/com/reservahotel/Main.java,9/6/9666e90d4dd8c5b0099a0f8f0299c04068493951
 _
 /src/br/com/reservahotel/domain/TipoCliente.java,6/7/67fc24afad070895a035bba187610aa011d5ae5a
+h
+8src/br/com/reservahotel/service/ReservaHotelService.java,1/8/180a4c1fd869b5d1223b06d4beb96acc4b3b316d
